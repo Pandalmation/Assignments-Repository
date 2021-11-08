@@ -1,0 +1,69 @@
+mainbody {
+    background color: #e1e1e1;
+    }
+    .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+    .Quote {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+      text-align: center;
+    }
+    .Name{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+      text-align: center;
+      position: relative;
+      top: -1950px;
+      right:0px;
+      left: -30px;
+      width: 300px;
+      
+    }
+    
+    .achievements {
+      display: block;
+      position:relative;
+      top: -1000px;
+      left: 0px;
+      right:100px;
+      width: 300px;
+      text-align: center;
+    }
+    .achievements li{
+     font-size:40px;
+    }
+    .History{
+      display: block;
+      position: relative;
+      top: -2020px;
+      right:-1400px;
+      width: 300px;
+      text-align: center;
+    }
+    .History li{
+      font-size:20px;
+    }
+    .info{
+      font-size:20px;
+    }
+    .Info li{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+      text-align: center;
+      position: relative;
+      top: -1970px;
+      right:0px;
+      left: -50px;
+      width: 300px;
+      font-size: 20px;
+    }
